@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\bin\Debug\net6.0\PrintPositivIntFromMtoN.exe
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\bin\Debug\net6.0\PrintPositivIntFromMtoN.deps.json
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\bin\Debug\net6.0\PrintPositivIntFromMtoN.runtimeconfig.json
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\bin\Debug\net6.0\PrintPositivIntFromMtoN.dll
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\bin\Debug\net6.0\PrintPositivIntFromMtoN.pdb
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.dll
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\refint\PrintPositivIntFromMtoN.dll
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.pdb
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\PrintPositivIntFromMtoN.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GB ДЗ\HomeTaskSem9C#\PrintPositivIntFromMtoN\obj\Debug\net6.0\ref\PrintPositivIntFromMtoN.dll
